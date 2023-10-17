@@ -8,3 +8,5 @@ def voter(x):
         print("you are not eligable")
     else: 
         print("you are eligable")
+
+voter(user_input)
