@@ -10,3 +10,4 @@ def voter(x):
         print("you are eligable")
 
 voter(user_input)
+print("prateek")
